@@ -1,0 +1,87 @@
+*{
+    margin: 0cm;
+    padding: 0cm;
+}
+.box{
+    padding:.45cm;
+    margin-top: .05cm;
+    margin-right: .15cm;
+    background-color:rgb(255, 255, 255);
+    float:left
+}
+.header{
+    background-color: rgb(68,114,196);
+    color: rgb(255, 255, 255);
+    padding-top: .25cm;
+    padding-bottom:.25cm;
+    padding-right:1cm;
+    padding-left:1cm;
+    margin: auto auto;
+}
+.container{
+    margin: 10px auto;
+    padding-top: 1cm;
+    padding-bottom:1.25cm;
+    padding-right:1cm;
+    padding-left:1cm;
+    border: 1px rgb(185, 185, 185) solid;
+    width: 19cm;
+    height: 27.45cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+}
+.titles{
+    text-transform: uppercase ;
+    font-weight: 600;
+    padding-bottom: 3px;
+    padding-top: 5px;
+}
+.main-title{
+    text-transform: uppercase ;
+    font-weight: 600;
+    padding-bottom: 3px;
+}
+
+.description{
+    font-weight: 600;
+} 
+
+.lists{
+    padding-left: 50px;
+    padding-top: 3px;
+
+}
+
+.activity {
+    float: left;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-weight: 700;
+}
+
+.date {
+    float: right;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    font-weight: 700;
+
+}
+.regular_p{
+    clear: both;
+    margin-bottom: 0px;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    margin-top: 0px;
+    color: #333; 
+    background-color: #333; 
+}
+ul {
+    font-size: 20;
+}
+p{
+    color: black;
+    font-size: 15px;
+}
